@@ -1,4 +1,7 @@
+# PICKET - 공연 티켓팅 웹 서비스
+
 ## 주요기능
+
  - JAVA언어와 Spring을 이용하여 백엔드를 구현 
  - 로그인 기능 및 장바구니(찜) 기능, 결제 구현
  - HTML과 CSS, Java Script를 통해 UI구현
