@@ -25,6 +25,11 @@ https://private-user-images.githubusercontent.com/160197431/380375219-cc4707d9-7
 
 ![피켓 메인 GIF](https://github.com/user-attachments/assets/424101b3-6a8e-4dac-b1fa-55dd0ed5b6b6)
 
+
+
+https://github.com/user-attachments/assets/bbecc002-9525-400f-b5cb-0325517baeb1
+
+
    ## 4. 개발 기간 및 작업 관리
    - **개발 기간**
         1. 도서관리 프로젝트 : 2024.02.26 ~ 2024.02.29 (총 4일)
